@@ -1,8 +1,8 @@
 .body {
   display: flex;
   align-items: center;
-  justify-content: center;
-  background-image: url(https://images8.alphacoders.com/547/547352.jpg);
+  justify-content: left;
+  background-image: url(https://fondosmil.com/fondo/52705.jpg);
   background-size: cover;
   background-position: center;
   color: white;
@@ -10,6 +10,7 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   min-height: 100vh;
   margin: 0;
+  padding-left: 150px;
 }
 
 .article__title,
